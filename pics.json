@@ -1,14 +1,14 @@
 [
   {
-    name:"Dublin",
-    url:"https://raw.githubusercontent.com/KiseleowPasha/HomelyImg/master/Dublin%20MT%20.webp"
+    "name":"Dublin",
+    "url":"https://raw.githubusercontent.com/KiseleowPasha/HomelyImg/master/Dublin%20MT%20.webp"
   },
   {
-    name:"Orson",
-    url:"https://raw.githubusercontent.com/KiseleowPasha/HomelyImg/master/Orson%20MT%20.webp"
+    "name":"Orson",
+    "url":"https://raw.githubusercontent.com/KiseleowPasha/HomelyImg/master/Orson%20MT%20.webp"
   },
   {
-    name:"Scott",
-    url:"https://raw.githubusercontent.com/KiseleowPasha/HomelyImg/master/Scott%20MT.webp"
+    "name":"Scott",
+    "url":"https://raw.githubusercontent.com/KiseleowPasha/HomelyImg/master/Scott%20MT.webp"
   }
 ]
